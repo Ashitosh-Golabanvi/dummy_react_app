@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>🚀 React App Deployed on Azure VM</h1>
+      <h1 style={styles.title}>🚀 React App Deployed on Azure VM with CICD Feature</h1>
 
       <p style={styles.text}>
         Your React application is successfully running behind Nginx on:
