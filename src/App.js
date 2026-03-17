@@ -5,6 +5,7 @@ function App() {
   return (
     <div style={styles.container}>
       <h1 style={styles.title}>🚀 React App Deployed on Azure VM</h1>
+      <h2 style={styles.title}>🚀 With CICD Feature</h2>
 
       <p style={styles.text}>
         Your React application is successfully running behind Nginx on:
